@@ -12,7 +12,7 @@ baseurl: /ask
 
 # Customization
 custom:
-  accent: "pink"
+  accent: "blue"
   prompt: "Pose moi une question !!!"
   followup_prompt: "Answer with another question?"
   
