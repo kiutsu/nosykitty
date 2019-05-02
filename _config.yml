@@ -4,21 +4,21 @@ title: nosykitty
 author:
   name: nosykitty
 # comment the following line to use your github avatar:
-  avatar: "http://david.quotient.space/nosykitty/assets/kitty.svg"
+  avatar: "https://www.nautiljon.com/images/perso/00/53/shizuku_9835.jpg"
 
 # Put here the url to your site (e.g. url: https://username.github.io and baseurl: /ask)
-url: http://david.quotient.space
-baseurl: /nosykitty
+url: http://kiutsu.tk
+baseurl: /ask
 
 # Customization
 custom:
-  accent: "blue"
-  prompt: "Ask a question! It will be public on Github before it is answered"
+  accent: "pink"
+  prompt: "Pose moi une question !!!"
   followup_prompt: "Answer with another question?"
   
 
 # Localization
-lang: en
+lang: fr
 
 # Configuration stuff you don't care about
 plugins:
